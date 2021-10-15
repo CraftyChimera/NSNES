@@ -1,0 +1,1 @@
+Supposed to be a SNES emulator.(//will be edited later)
