@@ -1,1 +1,0 @@
-This will be a proper contribution guide in a couple of commits(//yea I didn't plan ahead)
